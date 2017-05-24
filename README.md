@@ -1,2 +1,1 @@
-# hello-world
-一个存储库
+my first use github ! i'm very happy to use it ! it's great for me !
